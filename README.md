@@ -1,3 +1,7 @@
+<p align="center"><img width=12.5% src="https://github.com/rathi-prashant/devops_code/blob/master/media/logo.jpg"></p>
+<p align="center"><img width=60% src="https://github.com/rathi-prashant/devops_code/blob/master/media/tagline.jpg"></p>
+
+
 # devops_code
 
 This repository has tutorials, examples, and automation code for various DevOps tools and technologies.
