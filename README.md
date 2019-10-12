@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![Build Status]()
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-[![GitHub Issues](https://img.shields.io/github/issues/)](https://github.com/rathi-prashant/devops_code/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/rathi-prashant/devops.svg)](https://github.com/rathi-prashant/devops_code/issues)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
