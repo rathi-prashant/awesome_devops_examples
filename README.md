@@ -1,4 +1,4 @@
-<p align="center"><img width=30% src="https://github.com/rathi-prashant/devops_code/blob/master/media/devops.jpg"></p>
+<p align="center"><img width=50% src="https://github.com/rathi-prashant/devops_code/blob/master/media/devops.jpg"></p>
 <p align="center"><img width=60% src="https://github.com/rathi-prashant/devops_code/blob/master/media/tagline.jpg"></p>
 
 
