@@ -1,7 +1,7 @@
 ![](./img/devops.jpg)
 ![](./img/tagline.jpg)
 
-![](https://komarev.com/ghpvc/?username=rathi-prashant)
+![ProfileView](https://komarev.com/ghpvc/?username=rathi-prashant)
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![Terraform](https://img.shields.io/badge/terraform-v12.09+-blue.svg)
 [![Build Status]()
