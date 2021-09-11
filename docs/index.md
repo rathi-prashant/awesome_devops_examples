@@ -17,15 +17,15 @@ This repository has tutorials, examples, and automation code for various DevOps 
 
 ## Getting Started
 
-![AWS](./img/folder-icon.png){:height="20px" width="20px"} **AWS**  
-![AZURE](./img/folder-icon.png){:height="20px" width="20px"} **Azure**  
-![GCP](./img/folder-icon.png){:height="20px" width="20px"} **GCP**  
-![KUBERNETES](./img/folder-icon.png){:height="20px" width="20px"} **Kubernetes**  
-![SECURITY](./img/folder-icon.png){:height="20px" width="20px"} **SECURITY**  
+![AWS](./img/folder-icon.png){:height="20px" width="20px"} [AWS](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/aws)  
+![AZURE](./img/folder-icon.png){:height="20px" width="20px"} [Azure](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/azure)  
+![GCP](./img/folder-icon.png){:height="20px" width="20px"} [GCP](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/gcp)   
+![KUBERNETES](./img/folder-icon.png){:height="20px" width="20px"} [Kubernetes](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/kubernetes)   
+![SECURITY](./img/folder-icon.png){:height="20px" width="20px"} [Security](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/security)    
 ![TERRAFORM](./img/folder-icon.png){:height="20px" width="20px"} [Terraform](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/terraform)   
-![ANSIBLE](./img/folder-icon.png){:height="20px" width="20px"} **Ansible**  
-![PYTHON](./img/folder-icon.png){:height="20px" width="20px"} **Python**  
-![BASH](./img/folder-icon.png){:height="20px" width="20px"} **Bash**  
+![ANSIBLE](./img/folder-icon.png){:height="20px" width="20px"} [Ansible](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/ansible)  
+![PYTHON](./img/folder-icon.png){:height="20px" width="20px"} [Python](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/python)    
+![BASH](./img/folder-icon.png){:height="20px" width="20px"} [Bash](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/bash)  
 
 <br/>
 
