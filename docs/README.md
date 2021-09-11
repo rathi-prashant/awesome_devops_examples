@@ -1,4 +1,4 @@
-![Logo](../media/devops.jpg)
+![Logo](https://github.com/rathi-prashant/awesome_devops_examples/blob/master/media/devops.jpg)
 <p align="center"><img width=38% src="../media/devops.jpg"</p>
 <p align="center"><img width=68% src="https://github.com/rathi-prashant/devops_code/blob/master/media/tagline.jpg"></p>
 
