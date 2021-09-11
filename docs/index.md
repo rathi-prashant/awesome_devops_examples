@@ -17,23 +17,15 @@ This repository has tutorials, examples, and automation code for various DevOps 
 
 ## Getting Started
 
-![AWS](./img/folder-icon.png){:height="20px" width="20px"} **AWS**
-<br/>
-![AZURE](./img/folder-icon.png){:height="20px" width="20px"} **Azure**
-<br/>
-![GCP](./img/folder-icon.png){:height="20px" width="20px"} **GCP**
-<br/>
-![KUBERNETES](./img/folder-icon.png){:height="20px" width="20px"} **Kubernetes**
-<br/>
-![SECURITY](./img/folder-icon.png){:height="20px" width="20px"} **SECURITY**
-<br/>
-![TERRAFORM](./img/folder-icon.png){:height="20px" width="20px"} **Terraform**
-<br/>
-![ANSIBLE](./img/folder-icon.png){:height="20px" width="20px"} **Ansible**
-<br/>
-![PYTHON](./img/folder-icon.png){:height="20px" width="20px"} **Python**
-<br/>
-![BASH](./img/folder-icon.png){:height="20px" width="20px"} **Bash**
+![AWS](./img/folder-icon.png){:height="20px" width="20px"} **AWS**  
+![AZURE](./img/folder-icon.png){:height="20px" width="20px"} **Azure**  
+![GCP](./img/folder-icon.png){:height="20px" width="20px"} **GCP**  
+![KUBERNETES](./img/folder-icon.png){:height="20px" width="20px"} **Kubernetes**  
+![SECURITY](./img/folder-icon.png){:height="20px" width="20px"} **SECURITY**  
+![TERRAFORM](./img/folder-icon.png){:height="20px" width="20px"} **Terraform**  
+![ANSIBLE](./img/folder-icon.png){:height="20px" width="20px"} **Ansible**  
+![PYTHON](./img/folder-icon.png){:height="20px" width="20px"} **Python**  
+![BASH](./img/folder-icon.png){:height="20px" width="20px"} **Bash**  
 
 <br/>
 
