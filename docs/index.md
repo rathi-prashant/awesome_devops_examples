@@ -27,6 +27,26 @@ This repository has tutorials, examples, and automation code for various DevOps 
 ## Demystify DevOps
 |  | CATEGORY | TOOL | DESCRIPTION |
 |----------|----------|----------|----------|
+| <td rowspan="7">Cloud</td>| [OpenStack](https://www.openstack.org/) | OpenStack software controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API. |
+|  |  [AWS](https://aws.amazon.com/)  |  Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use. |
+|  |  [Alibabacloud](https://www.alibabacloud.com/)   | Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices. Try for Free.  |
+|  |  [Microsoft Azure](https://azure.microsoft.com/en-us/)  |  Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform. Move faster, do more, and save money with IaaS + PaaS. Try for FREE. |
+|  |  [Google Cloud Platform](https://cloud.google.com/)  | Build, innovate, and scale with Google Cloud Platform. Collaborate and be more productive with G Suite. See what's possible with Google Cloud. |
+|  |  [Tencent Cloud](https://intl.cloud.tencent.com/)  | Empower your business with our high-performance cloud services. |
+|  |  [Huawei Cloud](https://intl.huaweicloud.com/)  | Comprehensive Range of Cloud Computing Services. |
+| <td rowspan="13">Container orchestrator</td>| [Minikube](https://minikube.sigs.k8s.io/docs/) | minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows. |
+|  |  [k3s](https://k3s.io/)  |  K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances. |
+|  |  [microk8s](https://microk8s.io/)  |  Low-ops, minimal production Kubernetes, for devs, cloud, clusters, workstations, Edge and IoT. |
+|  |  [GKE](https://cloud.google.com/kubernetes-engine)  |  Google is the original developer of Kubernetes, and is still heavily involved in its development. It was also the first to launch a managed Kubernetes service—the Google Kubernetes Engine. GKE is considered to be one of the most mature Kubernetes services on the market. |
+|  |  [AKS](https://azure.microsoft.com/en-gb/services/kubernetes-service/)  |  Azure Kubernetes Service (AKS) makes it easy to deploy managed Kubernetes clusters to Azure. AKS shifts the responsibility for managing the Kubernetes control plane to Azure, reducing management complexity and operational overhead.  |
+|  |  [EKS](https://aws.amazon.com/eks)  |  AWS EKS is a service that simplifies and automates deployment and management of Kubernetes clusters. It is available on Amazon infrastructure (with both EC2 and Fargate as deployment options), and can also be used to manage Kubernetes on-premises. It runs a recent version of open source Kubernetes, and is compatible with the full ecosystem of Kubernetes tools. |
+|  |  [Rancher](https://rancher.com/)  |  Rancher is an open source platform that runs containers in production across multiple environments—on-premise and on any public cloud. It captures computing resources from public or private clouds and seamlessly deploys Kubernetes resources on them. |
+|  |  [Nomad](https://www.nomadproject.io/)  |  A simple and flexible workload orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale. |
+|  |  [Docker compose](https://github.com/docker/compose)  |  Define and run multi-container applications with Docker. |
+|  |  [Portainer](https://github.com/portainer/portainer)  |  Portainer CE is a lightweight ‘universal’ management GUI that can be used to easily manage Docker, Swarm, Kubernetes and ACI environments. It is designed to be as simple to deploy as it is to use. |
+|  |  [Red hat CoreOS](https://cloud.redhat.com/learn/coreos/)  |  CoreOS is the provider of a container-focused Linux distribution, compatible with Docker but with an opinionated image format and runtime of its own, and an “enterprise-grade Kubernetes” distribution. |
+|  |  [Kontena](https://github.com/kontena/kontena)  |  The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use. |
+|  |  [Vmvare - Tanzu](https://tanzu.vmware.com/kubernetes-grid)  |  Enterprise-ready Kubernetes runtime - support multicloud deployment. |
 | <td rowspan="5">Application Layer Management</td>| [Jira](https://www.atlassian.com/software/jira) | Plan, track, and manage your agile and software development projects in Jira. Customize your workflow, collaborate, and release great software. |
 |  | [Trello](https://trello.com/en) | Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details. |
 |  | [BaseCamp](https://basecamp.com/) |  Everything’s organized in one place, you’re on top of things, progress is clear, and a sense of calm sets in. |
@@ -50,13 +70,6 @@ This repository has tutorials, examples, and automation code for various DevOps 
 |  |  [Influxdb](https://www.influxdata.com/)  | Open Source Time Series DB Platform for Metrics & Events (Time Series Data). |
 |  |  [Grafana](https://grafana.com/) | Data visualization & Monitoring with support for Graphite, InfluxDB, Prometheus, Elasticsearch and many more databases. |
 |  |  [Prometheus](https://prometheus.io/)  | An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach. |
-| <td rowspan="7">Cloud</td>| [OpenStack](https://www.openstack.org/) | OpenStack software controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API. |
-|  |  [AWS](https://aws.amazon.com/)  |  Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use. |
-|  |  [Alibabacloud](https://www.alibabacloud.com/)   | Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices. Try for Free.  |
-|  |  [Microsoft Azure](https://azure.microsoft.com/en-us/)  |  Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform. Move faster, do more, and save money with IaaS + PaaS. Try for FREE. |
-|  |  [Google Cloud Platform](https://cloud.google.com/)  | Build, innovate, and scale with Google Cloud Platform. Collaborate and be more productive with G Suite. See what's possible with Google Cloud. |
-|  |  [Tencent Cloud](https://intl.cloud.tencent.com/)  | Empower your business with our high-performance cloud services. |
-|  |  [Huawei Cloud](https://intl.huaweicloud.com/)  | Comprehensive Range of Cloud Computing Services. |
 | <td rowspan="4">Logging</td>| [Elasticsearch](https://www.elastic.co/) | Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. |
 |  |  [LogStash](https://www.elastic.co/products/logstash)  | Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite "stash." |
 |  |  [Kibana](https://www.elastic.co/products/kibana)   | Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack. |
