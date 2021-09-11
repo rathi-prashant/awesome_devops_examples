@@ -43,6 +43,14 @@ This repository has tutorials, examples, and automation code for various DevOps 
 <br/>
 
 
+## Demystify DevOps
+
+| Component   | Tools       | Description |
+| ----------- | ----------- | ----------- |
+| SCM         | Github      |     text    |
+|               Bitbucket   |     text    |
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rathi-prashant/awesome_devops_examples/blob/master/docs/LICENSE.md) file for details
