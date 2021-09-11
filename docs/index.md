@@ -33,9 +33,3 @@ This repository has tutorials, examples, and automation code for various DevOps 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rathi-prashant/awesome_devops_examples/blob/master/docs/LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
