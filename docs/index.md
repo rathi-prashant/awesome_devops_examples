@@ -22,7 +22,7 @@ This repository has tutorials, examples, and automation code for various DevOps 
 ![GCP](./img/folder-icon.png){:height="20px" width="20px"} **GCP**  
 ![KUBERNETES](./img/folder-icon.png){:height="20px" width="20px"} **Kubernetes**  
 ![SECURITY](./img/folder-icon.png){:height="20px" width="20px"} **SECURITY**  
-![TERRAFORM](./img/folder-icon.png){:height="20px" width="20px"} **Terraform**  
+![TERRAFORM](./img/folder-icon.png){:height="20px" width="20px"} [Terraform](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/terraform) 
 ![ANSIBLE](./img/folder-icon.png){:height="20px" width="20px"} **Ansible**  
 ![PYTHON](./img/folder-icon.png){:height="20px" width="20px"} **Python**  
 ![BASH](./img/folder-icon.png){:height="20px" width="20px"} **Bash**  
