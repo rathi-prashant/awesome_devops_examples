@@ -2,8 +2,6 @@
 ![](./img/tagline.jpg)
 
 ![ProfileView](https://komarev.com/ghpvc/?username=rathi-prashant)
-![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
-![Terraform](https://img.shields.io/badge/terraform-v12.09+-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
