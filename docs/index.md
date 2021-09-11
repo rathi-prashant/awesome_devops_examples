@@ -15,11 +15,11 @@
 
 This repository has tutorials, examples, and automation code for various DevOps tools and technologies.
 
-## Getting Started
+## Examples
 
 ![AWS](./img/folder-icon.png){:height="20px" width="20px"} [AWS](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/aws)  
-    * test1  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;test2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test2
 ![AZURE](./img/folder-icon.png){:height="20px" width="20px"} [Azure](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/azure)  
 ![GCP](./img/folder-icon.png){:height="20px" width="20px"} [GCP](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/gcp)   
 ![KUBERNETES](./img/folder-icon.png){:height="20px" width="20px"} [Kubernetes](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/kubernetes)   
