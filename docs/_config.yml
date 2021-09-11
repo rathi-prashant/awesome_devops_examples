@@ -1,4 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
+site_url: https://rathi-prashant.github.io/awesome_devops_examples/
 plugins:
 - jekyll-remote-theme
 
