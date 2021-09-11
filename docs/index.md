@@ -8,7 +8,9 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# devops_code
+# TO-DO - Use buddy https://buddy.works/pricing
+
+# DevOps Made Easy
 
 This repository has tutorials, examples, and automation code for various DevOps tools and technologies.
 
