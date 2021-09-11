@@ -15,40 +15,23 @@ This repository has tutorials, examples, and automation code for various DevOps 
 ## Examples
 
 ![AWS](./img/folder-icon.png){:height="20px" width="20px"} [AWS](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/aws)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test1  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test2  
 ![AZURE](./img/folder-icon.png){:height="20px" width="20px"} [Azure](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/azure)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test1  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test2  
 ![GCP](./img/folder-icon.png){:height="20px" width="20px"} [GCP](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/gcp)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test1  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test2  
 ![KUBERNETES](./img/folder-icon.png){:height="20px" width="20px"} [Kubernetes](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/kubernetes)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test1  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test2  
 ![SECURITY](./img/folder-icon.png){:height="20px" width="20px"} [Security](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/security)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test1  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test2  
 ![TERRAFORM](./img/folder-icon.png){:height="20px" width="20px"} [Terraform](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/terraform)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test1  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test2  
 ![ANSIBLE](./img/folder-icon.png){:height="20px" width="20px"} [Ansible](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/ansible)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test1  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test2  
 ![PYTHON](./img/folder-icon.png){:height="20px" width="20px"} [Python](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/python)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test1  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |- Test2  
 ![BASH](./img/folder-icon.png){:height="20px" width="20px"} [Bash](https://github.com/rathi-prashant/awesome_devops_examples/tree/master/bash)  
 
 <br/>
-
 
 ## Demystify DevOps
 
 | Component   | Tools       | Description |
 | ----------- | ----------- | ----------- |
 | SCM         | Github      |     text    |
-|               Bitbucket   |     text    |
+|             | Bitbucket   |     text    |
 
 
 ## License
