@@ -17,12 +17,16 @@ This repository has tutorials, examples, and automation code for various DevOps 
 
 ## Getting Started
 
-![TERRAFORM](./img/folder-icon.png){:height="20px" width="20px"} - Terraform
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+![AWS](./img/folder-icon.png){:height="20px" width="20px"} **AWS**
+![AZURE](./img/folder-icon.png){:height="20px" width="20px"} **Azure**
+![GCP](./img/folder-icon.png){:height="20px" width="20px"} **GCP**
+![TERRAFORM](./img/folder-icon.png){:height="20px" width="20px"} **Terraform**
+![ANSIBLE](./img/folder-icon.png){:height="20px" width="20px"} **Ansible**
+![PYTHON](./img/folder-icon.png){:height="20px" width="20px"} **Python**
+![BASH](./img/folder-icon.png){:height="20px" width="20px"} **Bash**
 
-### Prerequisites
+<br/>
 
-What things you need to install the software and how to install them
 
 ```
 Give examples
