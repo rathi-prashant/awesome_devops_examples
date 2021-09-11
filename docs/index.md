@@ -1,8 +1,6 @@
-![Logo](![](./img/devops.jpg)
-<p align="center"><img width=38% src="../media/devops.jpg"</p>
-<p align="center"><img width=68% src="https://github.com/rathi-prashant/devops_code/blob/master/media/tagline.jpg"></p>
+![](./img/devops.jpg)
+![](./img/tagline.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![Terraform](https://img.shields.io/badge/terraform-v12.09+-blue.svg)
 [![Build Status]()
