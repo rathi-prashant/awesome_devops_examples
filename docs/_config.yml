@@ -9,6 +9,3 @@ markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
-title: Contribution page
-layout: template
-filename: CONTRIBUTION.md 
