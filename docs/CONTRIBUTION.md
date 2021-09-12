@@ -1,9 +1,3 @@
----
-title: Contribution
-layout: template
-filename: CONTRIBUTION.md
---- 
-
 # Contributing
 
 Contribution in any form is welcome!! 
