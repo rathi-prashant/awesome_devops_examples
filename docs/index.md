@@ -26,8 +26,8 @@ This repository has tutorials, examples, and automation code for various DevOps 
 
 ## Demystify DevOps
 
-|  | CATEGORY | TOOL | DESCRIPTION |
-|----------|----------|----------|----------|
+| CATEGORY | TOOL | DESCRIPTION |
+|----------|----------|----------|
 | <td rowspan="7">Cloud</td>| [OpenStack](https://www.openstack.org/) | OpenStack software controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API. |
 |  |  [AWS](https://aws.amazon.com/)  |  Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use. |
 |  |  [Alibabacloud](https://www.alibabacloud.com/)   | Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices.  |
