@@ -81,11 +81,14 @@ This repository has tutorials, examples, and automation code for various DevOps 
 | **Logging** | [Elasticsearch](https://www.elastic.co/) | Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. |
 | **Logging** |  [LogStash](https://www.elastic.co/products/logstash)  | Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite "stash." |
 | **Logging** |  [Kibana](https://www.elastic.co/products/kibana)   | Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack. |
-| **Logging** |  [Graylog](https://www.graylog.org/)  | Graylog is a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine data. |
+| **Logging** |  [Graylog](https://www.graylog.org/)  | Graylog is a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine data. |  
+
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rathi-prashant/awesome_devops_examples/blob/master/docs/LICENSE.md) file for details
 
   
+## Contribution
+
 # TO-DO - Use buddy https://buddy.works/pricing
