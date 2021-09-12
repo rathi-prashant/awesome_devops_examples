@@ -1,3 +1,9 @@
+---
+title: Index
+layout: template
+filename: index.md
+--- 
+
 ![](./img/devops.jpg)
 ![](./img/tagline.jpg)
 
